@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Animated-project/static/css/main.15da85c1.css",
+    "main.js": "/Animated-project/static/js/main.2a6ae20a.js",
+    "static/js/453.e56c1174.chunk.js": "/Animated-project/static/js/453.e56c1174.chunk.js",
+    "static/media/Banner8.jpg": "/Animated-project/static/media/Banner8.a1e76114133e2136e5fb.jpg",
+    "static/media/Banner1.jpg": "/Animated-project/static/media/Banner1.39479aff46c932e4ec81.jpg",
+    "static/media/B11.jpg": "/Animated-project/static/media/B11.142aaab086dc8734894e.jpg",
+    "static/media/Banner2.jpg": "/Animated-project/static/media/Banner2.f40db401651728d0b251.jpg",
+    "static/media/B9.jpg": "/Animated-project/static/media/B9.a58bb2a1c5480d11eb37.jpg",
+    "static/media/B10.jpg": "/Animated-project/static/media/B10.039fa61b65fccc6b9956.jpg",
+    "index.html": "/Animated-project/index.html",
+    "main.15da85c1.css.map": "/Animated-project/static/css/main.15da85c1.css.map",
+    "main.2a6ae20a.js.map": "/Animated-project/static/js/main.2a6ae20a.js.map",
+    "453.e56c1174.chunk.js.map": "/Animated-project/static/js/453.e56c1174.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15da85c1.css",
+    "static/js/main.2a6ae20a.js"
+  ]
+}
